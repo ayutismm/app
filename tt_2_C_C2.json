@@ -1,6 +1,6 @@
 
 [
-    { "id": "m1", "day": "Monday", "subjectCode": "MAT201", "subjectName": "ayush", "startTime": "09:00", "endTime": "10:00", "type": "Lecture", "batches": ["All"], "room": "RM-LT4", "faculty": "Dr. Pragnya Das" },
+    { "id": "m1", "day": "Monday", "subjectCode": "MAT201", "subjectName": "Mathematics - II", "startTime": "09:00", "endTime": "10:00", "type": "Lecture", "batches": ["All"], "room": "RM-LT4", "faculty": "Dr. Pragnya Das" },
     { "id": "m2", "day": "Monday", "subjectCode": "ECT205", "subjectName": "Signals and Systems", "startTime": "10:00", "endTime": "11:00", "type": "Lecture", "batches": ["All"], "room": "RM-LT4", "faculty": "Dr. Anand Agrawal" },
     { "id": "m3", "day": "Monday", "subjectCode": "ECT203", "subjectName": "Analog Integrated Circuits", "startTime": "11:00", "endTime": "12:00", "type": "Lecture", "batches": ["All"], "room": "RM-LT4", "faculty": "Dr. Amit Kumar Garg" },
     { "id": "m4", "day": "Monday", "subjectCode": "ECT201", "subjectName": "Microprocessors & Microcontrollers", "startTime": "12:00", "endTime": "13:00", "type": "Lecture", "batches": ["All"], "room": "RM-LT4", "faculty": "Dr. Rahul Makkar" },
@@ -30,4 +30,5 @@
     { "id": "f5", "day": "Friday", "subjectCode": "MMP201", "subjectName": "Eng. Creativity & Innovation", "startTime": "15:00", "endTime": "16:00", "type": "Lecture", "batches": ["All"], "room": "RM-LT4", "faculty": "Dr. Rajiv Ranjan Mahto" },
     { "id": "f6", "day": "Friday", "subjectCode": "ECT203", "subjectName": "Analog Integrated Circuits", "startTime": "16:00", "endTime": "17:00", "type": "Lecture", "batches": ["All"], "room": "RM-LT4", "faculty": "Dr. Amit Kumar Garg" }
 ]
+
 
