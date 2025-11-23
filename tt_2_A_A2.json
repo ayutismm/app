@@ -1,6 +1,6 @@
 
 [
-    { "id": "mon1", "day": "Monday", "subjectCode": "ECT201", "subjectName": "aryan ayush", "startTime": "09:00", "endTime": "10:00", "type": "Lecture", "batches": ["All"], "room": "LT-2", "faculty": "Dr. Abhay Upadhyay" },
+    { "id": "mon1", "day": "Monday", "subjectCode": "ECT201", "subjectName": "Microprocessors and Microcontroller", "startTime": "09:00", "endTime": "10:00", "type": "Lecture", "batches": ["All"], "room": "LT-2", "faculty": "Dr. Abhay Upadhyay" },
     { "id": "mon2", "day": "Monday", "subjectCode": "ECP201", "subjectName": "Microprocessors Lab", "startTime": "10:00", "endTime": "12:00", "type": "Lab", "batches": ["A2"], "room": "LAB-222", "faculty": "Dr. Abhay Upadhyay" },
     { "id": "mon4", "day": "Monday", "subjectCode": "HST201", "subjectName": "Eng. for Social Empowerment", "startTime": "14:00", "endTime": "15:00", "type": "Lecture", "batches": ["All"], "room": "LT-2", "faculty": "Dr. Ankita Birla" },
     { "id": "mon5", "day": "Monday", "subjectCode": "MAT201", "subjectName": "Mathematics - II", "startTime": "15:00", "endTime": "16:00", "type": "Lecture", "batches": ["All"], "room": "LT-2", "faculty": "Dr. Kapil Choudhry" },
@@ -29,4 +29,5 @@
     { "id": "fri3", "day": "Friday", "subjectCode": "ECT211", "subjectName": "Communication Systems", "startTime": "11:00", "endTime": "12:00", "type": "Lecture", "batches": ["All"], "room": "LT-2", "faculty": "Dr. Vinita Tiwari" },
     { "id": "fri4", "day": "Friday", "subjectCode": "HST201", "subjectName": "Eng. for Social Empowerment", "startTime": "12:00", "endTime": "13:00", "type": "Lecture", "batches": ["All"], "room": "LT-2", "faculty": "Dr. Ankita Birla" }
 ]
+
 
