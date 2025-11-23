@@ -1,0 +1,66 @@
+
+[
+    {
+      "day": "Monday",
+      "meals": [
+        { "type": "Breakfast", "items": ["Poha + Namkeen", "Layered Butter Paratha + Aloo Gravy"], "isVeg": true },
+        { "type": "Lunch", "items": ["Veg Kofta / Lauki", "Chana Masala", "Dal Makhani", "Rice", "Butter Roti"], "isVeg": true },
+        { "type": "Snacks", "items": ["Aloo Chana Chaat", "Ragda Pattice", "Tea + Coffee"], "isVeg": true },
+        { "type": "Dinner", "items": ["Seasonal Vegetable", "Mix Dal / Dal Palak", "Veg Pulao", "Butter Roti"], "isVeg": true }
+      ]
+    },
+    {
+      "day": "Tuesday",
+      "meals": [
+        { "type": "Breakfast", "items": ["Pao Bhaji", "Chole Kulche", "Seasonal Mixed Fruit"], "isVeg": true },
+        { "type": "Lunch", "items": ["Kadai Paneer", "Methi Malai Paneer", "Rajma Masala", "Jeera Rice"], "isVeg": true },
+        { "type": "Snacks", "items": ["Bread Pakora", "Bread Roll", "Rooh Afza Milkshake"], "isVeg": true },
+        { "type": "Dinner", "items": ["Aloo Gravy", "Kala Chana", "Rice", "Poori + Butter Roti", "Tomato Soup"], "isVeg": true }
+      ]
+    },
+    {
+      "day": "Wednesday",
+      "meals": [
+        { "type": "Breakfast", "items": ["Idli + Medu Vada + Sambhar", "Coconut Chutney"], "isVeg": true },
+        { "type": "Lunch", "items": ["Aloo Jeera", "Kadhi Pakoda", "Vegetable Raita", "Rice"], "isVeg": true },
+        { "type": "Snacks", "items": ["Bhel Puri / Jhal Muri", "Tea + Coffee"], "isVeg": true },
+        { "type": "Dinner", "items": ["Egg Curry (Non-Veg)", "Shahi Paneer / Palak Paneer", "Mix Dal", "Jeera Rice", "Rice Kheer"], "isVeg": false }
+      ]
+    },
+    {
+      "day": "Thursday",
+      "meals": [
+        { "type": "Breakfast", "items": ["Besan Chilla", "Aloo Sandwich + Omelete", "Tomato Ketchup"], "isVeg": false },
+        { "type": "Lunch", "items": ["Sev Tamatar", "Papad Pyaz", "Mix Dal", "Rice"], "isVeg": true },
+        { "type": "Snacks", "items": ["Maggi / Chowmein", "Tea + Coffee"], "isVeg": true },
+        { "type": "Dinner", "items": ["Seasonal Vegetable", "Lobia Dal / Arhar Dal", "Veg Biryani", "Salad"], "isVeg": true }
+      ]
+    },
+    {
+      "day": "Friday",
+      "meals": [
+        { "type": "Breakfast", "items": ["Upma", "Masala Khichdi", "Fresh Sprouts"], "isVeg": true },
+        { "type": "Lunch", "items": ["Dam Aloo", "Aloo Pyaz", "Dal Fry", "Jeera Rice"], "isVeg": true },
+        { "type": "Snacks", "items": ["Fried Idli", "Masala Poha", "Tea + Coffee"], "isVeg": true },
+        { "type": "Dinner", "items": ["Mix Veg", "Rajma / Dal Makhani", "Rice", "Salad"], "isVeg": true }
+      ]
+    },
+    {
+      "day": "Saturday",
+      "meals": [
+        { "type": "Breakfast", "items": ["Aloo Pyaz Parantha", "Paneer Pyaz Parantha", "Curd + Pickle"], "isVeg": true },
+        { "type": "Lunch", "items": ["Seasonal Vegetable", "Chana Dal Tadka", "Jeera Rice"], "isVeg": true },
+        { "type": "Snacks", "items": ["Samosa Chat", "Vada Sambar", "Pudina Chutney"], "isVeg": true },
+        { "type": "Dinner", "items": ["Masala Dosa", "Onion Dosa + Sambar", "Coconut Chutney", "Fruit Custard"], "isVeg": true }
+      ]
+    },
+    {
+      "day": "Sunday",
+      "meals": [
+        { "type": "Breakfast", "items": ["Chole + Puri + Bhature", "Fried Chilly"], "isVeg": true },
+        { "type": "Lunch", "items": ["Paneer Bhurji", "Paneer Butter Masala", "Dal Fry"], "isVeg": true },
+        { "type": "Snacks", "items": ["Veg Sandwich", "Coleslaw Sandwich", "Tea + Coffee"], "isVeg": true },
+        { "type": "Dinner", "items": ["Malai Kofta", "Vegetable Shahi Korma", "Rajma"], "isVeg": true }
+      ]
+    }
+]
