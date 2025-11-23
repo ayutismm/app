@@ -57,12 +57,10 @@
     {
       "day": "Sunday",
       "meals": [
-        { "type": "Breakfast", "items": ["chole + Puri + Bhature", "Fried Chilly"], "isVeg": true },
+        { "type": "Breakfast", "items": ["Chole + Puri + Bhature", "Fried Chilly"], "isVeg": true },
         { "type": "Lunch", "items": ["Paneer Bhurji", "Paneer Butter Masala", "Dal Fry"], "isVeg": true },
         { "type": "Snacks", "items": ["Veg Sandwich", "Coleslaw Sandwich", "Tea + Coffee"], "isVeg": true },
         { "type": "Dinner", "items": ["Malai Kofta", "Vegetable Shahi Korma", "Rajma"], "isVeg": true }
       ]
     }
 ]
-
-

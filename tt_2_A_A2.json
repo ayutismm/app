@@ -1,0 +1,31 @@
+
+[
+    { "id": "mon1", "day": "Monday", "subjectCode": "ECT201", "subjectName": "Microprocessors & Microcontrollers", "startTime": "09:00", "endTime": "10:00", "type": "Lecture", "batches": ["All"], "room": "LT-2", "faculty": "Dr. Abhay Upadhyay" },
+    { "id": "mon2", "day": "Monday", "subjectCode": "ECP201", "subjectName": "Microprocessors Lab", "startTime": "10:00", "endTime": "12:00", "type": "Lab", "batches": ["A2"], "room": "LAB-222", "faculty": "Dr. Abhay Upadhyay" },
+    { "id": "mon4", "day": "Monday", "subjectCode": "HST201", "subjectName": "Eng. for Social Empowerment", "startTime": "14:00", "endTime": "15:00", "type": "Lecture", "batches": ["All"], "room": "LT-2", "faculty": "Dr. Ankita Birla" },
+    { "id": "mon5", "day": "Monday", "subjectCode": "MAT201", "subjectName": "Mathematics - II", "startTime": "15:00", "endTime": "16:00", "type": "Lecture", "batches": ["All"], "room": "LT-2", "faculty": "Dr. Kapil Choudhry" },
+    { "id": "mon6", "day": "Monday", "subjectCode": "MMP201", "subjectName": "Eng. Creativity & Innovation", "startTime": "16:00", "endTime": "17:00", "type": "Lecture", "batches": ["All"], "room": "LT-2", "faculty": "Dr. Rajiv Ranjan Mahto" },
+
+    { "id": "tue1", "day": "Tuesday", "subjectCode": "ECT211", "subjectName": "Communication Systems", "startTime": "09:00", "endTime": "10:00", "type": "Lecture", "batches": ["All"], "room": "LT-2", "faculty": "Dr. Vinita Tiwari" },
+    { "id": "tue2", "day": "Tuesday", "subjectCode": "MAT201", "subjectName": "Mathematics - II", "startTime": "10:00", "endTime": "11:00", "type": "Lecture", "batches": ["All"], "room": "LT-2", "faculty": "Dr. Kapil Choudhry" },
+    { "id": "tue3", "day": "Tuesday", "subjectCode": "CST203", "subjectName": "Software Engineering", "startTime": "11:00", "endTime": "12:00", "type": "Lecture", "batches": ["All"], "room": "LT-2", "faculty": "Ms. Vijeta Sharma" },
+    { "id": "tue4", "day": "Tuesday", "subjectCode": "MMP201", "subjectName": "Eng. Creativity & Innovation", "startTime": "12:00", "endTime": "13:00", "type": "Lecture", "batches": ["All"], "room": "LT-2", "faculty": "Dr. Rajiv Ranjan Mahto" },
+    { "id": "tue5", "day": "Tuesday", "subjectCode": "MAT201", "subjectName": "Mathematics - II", "startTime": "14:00", "endTime": "15:00", "type": "Lecture", "batches": ["All"], "room": "LT-2", "faculty": "Dr. Kapil Choudhry" },
+    { "id": "tue6", "day": "Tuesday", "subjectCode": "CST201", "subjectName": "Database Management Systems", "startTime": "15:00", "endTime": "16:00", "type": "Lecture", "batches": ["All"], "room": "LT-2", "faculty": "Ms. Anjali Vyas" },
+
+    { "id": "wed1", "day": "Wednesday", "subjectCode": "CST201", "subjectName": "Database Management Systems", "startTime": "09:00", "endTime": "10:00", "type": "Lecture", "batches": ["All"], "room": "LT-2", "faculty": "Ms. Anjali Vyas" },
+    { "id": "wed2", "day": "Wednesday", "subjectCode": "ECT211", "subjectName": "Communication Systems", "startTime": "10:00", "endTime": "11:00", "type": "Lecture", "batches": ["All"], "room": "LT-2", "faculty": "Dr. Vinita Tiwari" },
+    { "id": "wed3", "day": "Wednesday", "subjectCode": "MAT201", "subjectName": "Mathematics - II", "startTime": "11:00", "endTime": "12:00", "type": "Tutorial", "batches": ["A2"], "room": "LT-2", "faculty": "Dr. Kapil Choudhry" },
+    { "id": "wed4", "day": "Wednesday", "subjectCode": "ECT201", "subjectName": "Microprocessors & Microcontrollers", "startTime": "12:00", "endTime": "13:00", "type": "Lecture", "batches": ["All"], "room": "LT-2", "faculty": "Dr. Abhay Upadhyay" },
+    { "id": "wed5", "day": "Wednesday", "subjectCode": "AIP211", "subjectName": "Web Development Lab", "startTime": "14:00", "endTime": "16:00", "type": "Lab", "batches": ["A2"], "room": "LAB-36", "faculty": "Ms. Kalpana Pathak" },
+
+    { "id": "thu1", "day": "Thursday", "subjectCode": "CST203", "subjectName": "Software Engineering", "startTime": "09:00", "endTime": "10:00", "type": "Lecture", "batches": ["All"], "room": "LT-2", "faculty": "Ms. Vijeta Sharma" },
+    { "id": "thu2", "day": "Thursday", "subjectCode": "HST201", "subjectName": "Eng. for Social Empowerment", "startTime": "11:00", "endTime": "12:00", "type": "Lecture", "batches": ["All"], "room": "LT-2", "faculty": "Dr. Ankita Birla" },
+    { "id": "thu3", "day": "Thursday", "subjectCode": "ECT201", "subjectName": "Microprocessors & Microcontrollers", "startTime": "14:00", "endTime": "15:00", "type": "Lecture", "batches": ["All"], "room": "LT-2", "faculty": "Dr. Abhay Upadhyay" },
+    { "id": "thu4", "day": "Thursday", "subjectCode": "CSP201", "subjectName": "DBMS Lab", "startTime": "14:00", "endTime": "16:00", "type": "Lab", "batches": ["A2"], "room": "LAB-137", "faculty": "Ms. Anjali Vyas" },
+
+    { "id": "fri1", "day": "Friday", "subjectCode": "CST203", "subjectName": "Software Engineering", "startTime": "09:00", "endTime": "10:00", "type": "Lecture", "batches": ["All"], "room": "LT-2", "faculty": "Ms. Vijeta Sharma" },
+    { "id": "fri2", "day": "Friday", "subjectCode": "CST201", "subjectName": "Database Management Systems", "startTime": "10:00", "endTime": "11:00", "type": "Lecture", "batches": ["All"], "room": "LT-2", "faculty": "Ms. Anjali Vyas" },
+    { "id": "fri3", "day": "Friday", "subjectCode": "ECT211", "subjectName": "Communication Systems", "startTime": "11:00", "endTime": "12:00", "type": "Lecture", "batches": ["All"], "room": "LT-2", "faculty": "Dr. Vinita Tiwari" },
+    { "id": "fri4", "day": "Friday", "subjectCode": "HST201", "subjectName": "Eng. for Social Empowerment", "startTime": "12:00", "endTime": "13:00", "type": "Lecture", "batches": ["All"], "room": "LT-2", "faculty": "Dr. Ankita Birla" }
+]

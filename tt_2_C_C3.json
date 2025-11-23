@@ -1,0 +1,32 @@
+
+[
+    { "id": "m1", "day": "Monday", "subjectCode": "MAT201", "subjectName": "Mathematics - II", "startTime": "09:00", "endTime": "10:00", "type": "Lecture", "batches": ["All"], "room": "RM-LT4", "faculty": "Dr. Pragnya Das" },
+    { "id": "m2", "day": "Monday", "subjectCode": "ECT205", "subjectName": "Signals and Systems", "startTime": "10:00", "endTime": "11:00", "type": "Lecture", "batches": ["All"], "room": "RM-LT4", "faculty": "Dr. Anand Agrawal" },
+    { "id": "m3", "day": "Monday", "subjectCode": "ECT203", "subjectName": "Analog Integrated Circuits", "startTime": "11:00", "endTime": "12:00", "type": "Lecture", "batches": ["All"], "room": "RM-LT4", "faculty": "Dr. Amit Kumar Garg" },
+    { "id": "m4", "day": "Monday", "subjectCode": "ECT201", "subjectName": "Microprocessors & Microcontrollers", "startTime": "12:00", "endTime": "13:00", "type": "Lecture", "batches": ["All"], "room": "RM-LT4", "faculty": "Dr. Rahul Makkar" },
+    { "id": "m5", "day": "Monday", "subjectCode": "MAT201", "subjectName": "Mathematics - II", "startTime": "14:00", "endTime": "15:00", "type": "Tutorial", "batches": ["C3"], "room": "RM-243", "faculty": "Dr. Pragnya Das" },
+
+    { "id": "t1", "day": "Tuesday", "subjectCode": "CST241", "subjectName": "Database Management Systems", "startTime": "09:00", "endTime": "10:00", "type": "Lecture", "batches": ["All"], "room": "RM-LT4", "faculty": "Ms. Anjali Vyas" },
+    { "id": "t2", "day": "Tuesday", "subjectCode": "ECT207", "subjectName": "Circuits and Networks", "startTime": "10:00", "endTime": "11:00", "type": "Lecture", "batches": ["All"], "room": "RM-LT4", "faculty": "Dr. Parikshit Kishor Singh" },
+    { "id": "t3", "day": "Tuesday", "subjectCode": "ECT201", "subjectName": "Microprocessors & Microcontrollers", "startTime": "11:00", "endTime": "12:00", "type": "Lecture", "batches": ["All"], "room": "RM-LT4", "faculty": "Dr. Rahul Makkar" },
+    { "id": "t4", "day": "Tuesday", "subjectCode": "ECT205", "subjectName": "Signals and Systems", "startTime": "12:00", "endTime": "13:00", "type": "Lecture", "batches": ["All"], "room": "RM-LT4", "faculty": "Dr. Anand Agrawal" },
+    { "id": "t5", "day": "Tuesday", "subjectCode": "CSP201", "subjectName": "DBMS Lab", "startTime": "14:00", "endTime": "16:00", "type": "Lab", "batches": ["C3"], "room": "RM-137", "faculty": "Ms. Avli Saxena" },
+
+    { "id": "w1", "day": "Wednesday", "subjectCode": "AIP211", "subjectName": "Web Development Lab", "startTime": "09:00", "endTime": "11:00", "type": "Lab", "batches": ["C3"], "room": "RM-138", "faculty": "Mr. Moinuddin" },
+    { "id": "w2", "day": "Wednesday", "subjectCode": "ECT207", "subjectName": "Circuits and Networks", "startTime": "12:00", "endTime": "13:00", "type": "Lecture", "batches": ["All"], "room": "RM-LT5", "faculty": "Dr. Parikshit Kishor Singh" },
+    { "id": "w3", "day": "Wednesday", "subjectCode": "ECP201", "subjectName": "Microprocessors Lab", "startTime": "12:00", "endTime": "13:00", "type": "Lab", "batches": ["C3"], "room": "RM-222", "faculty": "Dr. Rahul Makkar" },
+    { "id": "w4", "day": "Wednesday", "subjectCode": "ECT205", "subjectName": "Signals and Systems", "startTime": "16:00", "endTime": "17:00", "type": "Lecture", "batches": ["All"], "room": "RM-LT4", "faculty": "Dr. Anand Agrawal" },
+
+    { "id": "th1", "day": "Thursday", "subjectCode": "ECT201", "subjectName": "Microprocessors & Microcontrollers", "startTime": "09:00", "endTime": "10:00", "type": "Lecture", "batches": ["All"], "room": "RM-LT5", "faculty": "Dr. Rahul Makkar" },
+    { "id": "th2", "day": "Thursday", "subjectCode": "ECT203", "subjectName": "Analog Integrated Circuits", "startTime": "10:00", "endTime": "11:00", "type": "Lecture", "batches": ["All"], "room": "RM-LT5", "faculty": "Dr. Amit Kumar Garg" },
+    { "id": "th3", "day": "Thursday", "subjectCode": "CST241", "subjectName": "Database Management Systems", "startTime": "14:00", "endTime": "15:00", "type": "Lecture", "batches": ["All"], "room": "RM-LT4", "faculty": "Ms. Anjali Vyas" },
+    { "id": "th4", "day": "Thursday", "subjectCode": "MAT201", "subjectName": "Mathematics - II", "startTime": "15:00", "endTime": "16:00", "type": "Lecture", "batches": ["All"], "room": "RM-LT4", "faculty": "Dr. Pragnya Das" },
+    { "id": "th5", "day": "Thursday", "subjectCode": "MMP201", "subjectName": "Eng. Creativity & Innovation", "startTime": "16:00", "endTime": "17:00", "type": "Lecture", "batches": ["All"], "room": "RM-LT4", "faculty": "Dr. Rajiv Ranjan Mahto" },
+
+    { "id": "f1", "day": "Friday", "subjectCode": "MAT201", "subjectName": "Mathematics - II", "startTime": "09:00", "endTime": "10:00", "type": "Lecture", "batches": ["All"], "room": "RM-LT4", "faculty": "Dr. Pragnya Das" },
+    { "id": "f2", "day": "Friday", "subjectCode": "ECT207", "subjectName": "Circuits and Networks", "startTime": "10:00", "endTime": "11:00", "type": "Lecture", "batches": ["All"], "room": "RM-LT4", "faculty": "Dr. Parikshit Kishor Singh" },
+    { "id": "f3", "day": "Friday", "subjectCode": "ECP203", "subjectName": "Analog Integrated Circuits Lab", "startTime": "11:00", "endTime": "13:00", "type": "Lab", "batches": ["C3"], "room": "RM-236", "faculty": "Dr. Amit Kumar Garg" },
+    { "id": "f4", "day": "Friday", "subjectCode": "CST241", "subjectName": "Database Management Systems", "startTime": "14:00", "endTime": "15:00", "type": "Lecture", "batches": ["All"], "room": "RM-LT4", "faculty": "Ms. Anjali Vyas" },
+    { "id": "f5", "day": "Friday", "subjectCode": "MMP201", "subjectName": "Eng. Creativity & Innovation", "startTime": "15:00", "endTime": "16:00", "type": "Lecture", "batches": ["All"], "room": "RM-LT4", "faculty": "Dr. Rajiv Ranjan Mahto" },
+    { "id": "f6", "day": "Friday", "subjectCode": "ECT203", "subjectName": "Analog Integrated Circuits", "startTime": "16:00", "endTime": "17:00", "type": "Lecture", "batches": ["All"], "room": "RM-LT4", "faculty": "Dr. Amit Kumar Garg" }
+]

@@ -1,0 +1,29 @@
+
+[
+    { "id": "m1", "day": "Monday", "subjectCode": "CST101", "subjectName": "Computer Systems & Programming", "startTime": "09:00", "endTime": "10:00", "type": "Lecture", "batches": ["All"], "room": "LT-1", "faculty": "Ms. Avli Saxena" },
+    { "id": "m2", "day": "Monday", "subjectCode": "AIT101", "subjectName": "Foundation of AI", "startTime": "14:00", "endTime": "15:00", "type": "Lecture", "batches": ["All"], "room": "LT-4", "faculty": "Dr. Priyanka Agrawal" },
+    { "id": "m3", "day": "Monday", "subjectCode": "CSP101", "subjectName": "C Prog. Lab", "startTime": "15:00", "endTime": "17:00", "type": "Lab", "batches": ["B1"], "room": "Lab-36", "faculty": "Ms. Avli Saxena" },
+
+    { "id": "t1", "day": "Tuesday", "subjectCode": "CST101", "subjectName": "Computer Systems & Programming", "startTime": "09:00", "endTime": "10:00", "type": "Lecture", "batches": ["All"], "room": "LT-5", "faculty": "Ms. Avli Saxena" },
+    { "id": "t2", "day": "Tuesday", "subjectCode": "MAT101", "subjectName": "Mathematics - I", "startTime": "10:00", "endTime": "11:00", "type": "Lecture", "batches": ["All"], "room": "LT-3", "faculty": "Dr. Pragnya Das" },
+    { "id": "t3", "day": "Tuesday", "subjectCode": "ECT101", "subjectName": "Digital Design", "startTime": "11:00", "endTime": "12:00", "type": "Lecture", "batches": ["All"], "room": "LT-3", "faculty": "Dr. Amit Kumar Garg" },
+    { "id": "t4", "day": "Tuesday", "subjectCode": "HSP111", "subjectName": "Upnayan", "startTime": "14:00", "endTime": "15:00", "type": "Lecture", "batches": ["All"], "room": "Auditorium", "faculty": "Dr. Ankita Birla" },
+    { "id": "t5", "day": "Tuesday", "subjectCode": "ECP101", "subjectName": "Digital Design Lab", "startTime": "15:00", "endTime": "16:00", "type": "Lab", "batches": ["B1"], "room": "RM 236", "faculty": "Dr. Shekhar Pratap Singh" },
+
+    { "id": "w1", "day": "Wednesday", "subjectCode": "AIP111", "subjectName": "AI Tinkering Lab", "startTime": "09:00", "endTime": "10:00", "type": "Lab", "batches": ["B1"], "room": "Lab-123", "faculty": "Ms. Dakshita" },
+    { "id": "w2", "day": "Wednesday", "subjectCode": "MAT101", "subjectName": "Mathematics - I", "startTime": "12:00", "endTime": "13:00", "type": "Lecture", "batches": ["All"], "room": "LT-3", "faculty": "Dr. Pragnya Das" },
+    { "id": "w3", "day": "Wednesday", "subjectCode": "MAT101", "subjectName": "Mathematics - I", "startTime": "14:00", "endTime": "15:00", "type": "Lecture", "batches": ["All"], "room": "LT-3", "faculty": "Dr. Pragnya Das" },
+    { "id": "w4", "day": "Wednesday", "subjectCode": "AIT101", "subjectName": "Foundation of AI", "startTime": "15:00", "endTime": "16:00", "type": "Lecture", "batches": ["All"], "room": "LT-5", "faculty": "Dr. Priyanka Agrawal" },
+
+    { "id": "th1", "day": "Thursday", "subjectCode": "HSP101", "subjectName": "Communication Skills Lab", "startTime": "10:00", "endTime": "11:00", "type": "Lab", "batches": ["B1"], "room": "LT-3", "faculty": "Dr. Radhika Sharma" },
+    { "id": "th2", "day": "Thursday", "subjectCode": "MAT101", "subjectName": "Mathematics - I", "startTime": "11:00", "endTime": "12:00", "type": "Tutorial", "batches": ["B1"], "room": "RM-244", "faculty": "Dr. Pragnya Das" },
+    { "id": "th3", "day": "Thursday", "subjectCode": "AIT101", "subjectName": "Foundation of AI", "startTime": "14:00", "endTime": "15:00", "type": "Lecture", "batches": ["All"], "room": "LT-1", "faculty": "Dr. Priyanka Agrawal" },
+    { "id": "th4", "day": "Thursday", "subjectCode": "ECT101", "subjectName": "Digital Design", "startTime": "15:00", "endTime": "16:00", "type": "Lecture", "batches": ["All"], "room": "LT-1", "faculty": "Dr. Amit Kumar Garg" },
+    { "id": "th5", "day": "Thursday", "subjectCode": "HST101", "subjectName": "Communication Skills", "startTime": "16:00", "endTime": "17:00", "type": "Lecture", "batches": ["All"], "room": "LT-1", "faculty": "Dr. Radhika Sharma" },
+
+    { "id": "f1", "day": "Friday", "subjectCode": "ECT101", "subjectName": "Digital Design", "startTime": "12:00", "endTime": "13:00", "type": "Tutorial", "batches": ["All"], "room": "LT-4", "faculty": "Dr. Pintu Kumar" },
+    { "id": "f2", "day": "Friday", "subjectCode": "MAT101", "subjectName": "Mathematics - I", "startTime": "14:00", "endTime": "15:00", "type": "Lecture", "batches": ["All"], "room": "LT-1", "faculty": "Dr. Pragnya Das" },
+    { "id": "f3", "day": "Friday", "subjectCode": "CST101", "subjectName": "Computer Systems & Programming", "startTime": "15:00", "endTime": "16:00", "type": "Lecture", "batches": ["All"], "room": "LT-1", "faculty": "Ms. Avli Saxena" },
+    { "id": "f4", "day": "Friday", "subjectCode": "ECT101", "subjectName": "Digital Design", "startTime": "16:00", "endTime": "17:00", "type": "Lecture", "batches": ["All"], "room": "LT-1", "faculty": "Dr. Amit Kumar Garg" },
+    { "id": "f5", "day": "Friday", "subjectCode": "HST101", "subjectName": "Communication Skills", "startTime": "17:00", "endTime": "18:00", "type": "Lecture", "batches": ["All"], "room": "LT-1", "faculty": "Dr. Radhika Sharma" }
+]
