@@ -6,7 +6,7 @@
     { "id": "m4", "day": "Monday", "subjectCode": "ECT101", "subjectName": "Digital Design", "startTime": "15:00", "endTime": "16:00", "type": "Lecture", "batches": ["All"], "room": "LT-5", "faculty": "Dr. Vinita Tiwari" },
     { "id": "m5", "day": "Monday", "subjectCode": "MAT101", "subjectName": "Mathematics - I", "startTime": "16:00", "endTime": "17:00", "type": "Tutorial", "batches": ["A3"], "room": "RM-142", "faculty": "Dr. Kapil Choudhary" },
 
-    { "id": "t2", "day": "Tuesday", "subjectCode": "MAT101", "subjectName": "ayush", "startTime": "12:00", "endTime": "13:00", "type": "Lecture", "batches": ["All"], "room": "LT-5", "faculty": "Dr. Kapil Choudhary" },
+    { "id": "t2", "day": "Tuesday", "subjectCode": "MAT101", "subjectName": "C Prog. Lab", "startTime": "12:00", "endTime": "13:00", "type": "Lecture", "batches": ["All"], "room": "LT-5", "faculty": "Dr. Kapil Choudhary" },
     { "id": "t3", "day": "Tuesday", "subjectCode": "MAT101", "subjectName": "Mathematics - I", "startTime": "14:00", "endTime": "15:00", "type": "Lecture", "batches": ["All"], "room": "LT-5", "faculty": "Dr. Kapil Choudhary" },
     { "id": "t4", "day": "Tuesday", "subjectCode": "ECT101", "subjectName": "Digital Design", "startTime": "15:00", "endTime": "16:00", "type": "Lecture", "batches": ["All"], "room": "LT-5", "faculty": "Dr. Vinita Tiwari" },
     { "id": "t5", "day": "Tuesday", "subjectCode": "HSP111", "subjectName": "Upnayan", "startTime": "16:00", "endTime": "17:00", "type": "Lecture", "batches": ["All"], "room": "Auditorium", "faculty": "Dr. Ankita Birla" },
@@ -27,4 +27,5 @@
     { "id": "f5", "day": "Friday", "subjectCode": "ECT101", "subjectName": "Digital Design", "startTime": "15:00", "endTime": "16:00", "type": "Tutorial", "batches": ["All"], "room": "LT-2", "faculty": "Dr. Pintu Kumar" },
     { "id": "f6", "day": "Friday", "subjectCode": "AIT101", "subjectName": "Foundation of AI", "startTime": "16:00", "endTime": "17:00", "type": "Lecture", "batches": ["All"], "room": "LT-2", "faculty": "Dr. Priyanka Agrawal" }
 ]
+
 
