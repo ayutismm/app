@@ -9,7 +9,7 @@
         "type": "Lecture",
         "batches": ["All"],
         "room": "RM-241",
-        "faculty": "Dr. Veena Khandabvai (VK)"
+        "faculty": "Dr. Veena Khandelwal"
     },
     {
         "id": "m2",
@@ -57,7 +57,7 @@
         "type": "Lecture",
         "batches": ["All"],
         "room": "RM-241",
-        "faculty": "Dr. Veena Khandabvai (VK)"
+        "faculty": "Dr. Veena Khandelwal"
     },
     {
         "id": "t2",
@@ -225,7 +225,7 @@
         "type": "Lab",
         "batches": ["D1"],
         "room": "LAB-123",
-        "faculty": "Dr. Veena Khandabvai (VK)"
+        "faculty": "Dr. Veena Khandelwal"
     },
     {
         "id": "f4",
@@ -237,7 +237,7 @@
         "type": "Lecture",
         "batches": ["All"],
         "room": "RM-241",
-        "faculty": "Dr. Veena Khandabvai (VK)"
+        "faculty": "Dr. Veena Khandelwal"
     },
     {
         "id": "f5",
