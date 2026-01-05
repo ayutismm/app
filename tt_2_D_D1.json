@@ -1,5 +1,41 @@
 [
     {
+        "id": "m1",
+        "day": "Monday",
+        "subjectCode": "AIT204",
+        "subjectName": "Deep Learning",
+        "startTime": "10:00",
+        "endTime": "11:00",
+        "type": "Lecture",
+        "batches": ["All"],
+        "room": "RM-241",
+        "faculty": "Dr. Veena Khandabvai (VK)"
+    },
+    {
+        "id": "m2",
+        "day": "Monday",
+        "subjectCode": "CST210",
+        "subjectName": "Database Management Systems",
+        "startTime": "11:00",
+        "endTime": "12:00",
+        "type": "Lecture",
+        "batches": ["All"],
+        "room": "RM-241",
+        "faculty": "Ms. Anjali Vyas (AV)"
+    },
+    {
+        "id": "m3",
+        "day": "Monday",
+        "subjectCode": "AIT202",
+        "subjectName": "Image Processing and Computer Vision",
+        "startTime": "12:00",
+        "endTime": "13:00",
+        "type": "Lecture",
+        "batches": ["All"],
+        "room": "RM-241",
+        "faculty": "Dr. Anil Sharma (AS)"
+    },
+    {
         "id": "m4",
         "day": "Monday",
         "subjectCode": "CSP206",
