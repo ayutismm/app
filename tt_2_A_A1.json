@@ -1,23 +1,12 @@
 [
-  {
-    "id": "m1",
-    "day": "Monday",
-    "subjectCode": "MMP202",
-    "subjectName": "Entrepreneurship and Business Incubation",
-    "startTime": "09:00",
-    "endTime": "10:00",
-    "type": "Tutorial",
-    "batches": ["A1"],
-    "room": "RM-244",
-    "faculty": "Dr. Ankita Birla (AB)"
-  },
+ 
   {
     "id": "m4",
     "day": "Monday",
     "subjectCode": "ECP206",
     "subjectName": "Computer Architecture & Organization Lab",
     "startTime": "14:00",
-    "endTime": "15:00",
+    "endTime": "16:00",
     "type": "Lab",
     "batches": ["A1"],
     "room": "LAB-222",
@@ -45,7 +34,7 @@
     "type": "Lecture",
     "batches": ["All"],
     "room": "LT-1",
-    "faculty": "Dr. Prahumi Goyal (PG)"
+    "faculty": "Dr. Prashant Goyal (PG)"
   },
   {
     "id": "t3",
@@ -57,7 +46,7 @@
     "type": "Lecture",
     "batches": ["All"],
     "room": "LT-1",
-    "faculty": "Ms. Postg Sharma (PS)"
+    "faculty": "Ms. Pooja Sharma (PS)"
   },
   {
     "id": "t4",
@@ -81,7 +70,7 @@
     "type": "Lab",
     "batches": ["A1"],
     "room": "LAB-36",
-    "faculty": "Ms. Postg Sharma (PS)"
+    "faculty": "Ms. Pooja Sharma (PS)"
   },
   {
     "id": "w1",
@@ -105,7 +94,7 @@
     "type": "Lecture",
     "batches": ["All"],
     "room": "LT-1",
-    "faculty": "Ms. Postg Sharma (PS)"
+    "faculty": "Ms. Pooja Sharma (PS)"
   },
   {
     "id": "w3",
@@ -117,7 +106,7 @@
     "type": "Lecture",
     "batches": ["All"],
     "room": "LT-1",
-    "faculty": "Dr. Prahumi Goyal (PG)"
+    "faculty": "Dr. Prashant Goyal (PG)"
   },
   {
     "id": "w4",
@@ -177,7 +166,7 @@
     "type": "Lecture",
     "batches": ["All"],
     "room": "LT-1",
-    "faculty": "Ms. Postg Sharma (PS)"
+    "faculty": "Ms. Pooja Sharma (PS)"
   },
   {
     "id": "th4",
@@ -237,7 +226,7 @@
     "type": "Lecture",
     "batches": ["All"],
     "room": "LT-1",
-    "faculty": "Dr. Prahumi Goyal (PG)"
+    "faculty": "Dr. Prashant Goyal (PG)"
   },
   {
     "id": "f3",
