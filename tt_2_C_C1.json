@@ -200,8 +200,8 @@
             "day": "Wednesday",
             "subjectCode": "ECP204",
             "subjectName": "Measurement and Instrumentation Technolgy Lab",
-            "startTime": "16:00",
-            "endTime": "18:00",
+            "startTime": "15:00",
+            "endTime": "17:00",
             "type": "Lab",
             "batches": [
                 "C1"
@@ -243,8 +243,8 @@
             "subjectCode": "MMP202",
             "subjectName": "Entrepreneurship and Business Incubation",
             "startTime": "11:00",
-            "endTime": "12:00",
-            "type": "Tutorial",
+            "endTime": "13:00",
+            "type": "Lab",
             "batches": [
                 "C1"
             ],
