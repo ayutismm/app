@@ -173,7 +173,7 @@
     "subjectCode": "CSP102",
     "subjectName": "Data Structures and Algorithms Lab",
     "startTime": "13:00",
-    "endTime": "14:00",
+    "endTime": "16:00",
     "type": "Lab",
     "batches": ["A2"],
     "room": "Lab-138",
@@ -216,18 +216,6 @@
     "faculty": "Dr. Ankita Birla (AB)"
   },
   {
-    "id": "th5",
-    "day": "Thursday",
-    "subjectCode": "ECP102",
-    "subjectName": "ECP102",
-    "startTime": "13:00",
-    "endTime": "14:00",
-    "type": "Lab",
-    "batches": ["A2"],
-    "room": "Lab-236",
-    "faculty": "TBA"
-  },
-  {
     "id": "th4",
     "day": "Thursday",
     "subjectCode": "MAT102",
@@ -240,16 +228,16 @@
     "faculty": "Dr. Prashant Goyal (PG)"
   },
   {
-    "id": "f3",
-    "day": "Friday",
-    "subjectCode": "CSP112",
-    "subjectName": "Python Programming Lab",
-    "startTime": "09:00",
-    "endTime": "10:00",
+    "id": "th5",
+    "day": "Thursday",
+    "subjectCode": "ECP102",
+    "subjectName": "Electronics devices and Circuits Lab",
+    "startTime": "13:00",
+    "endTime": "15:00",
     "type": "Lab",
     "batches": ["A2"],
-    "room": "Lab-32",
-    "faculty": "Dr. Rajendra Kachhawa (RK)"
+    "room": "Lab-236",
+    "faculty": "Dr. Vinita Tiwari (VT) + Ms. Reema Jain (RJ)"
   },
   {
     "id": "f1",
@@ -257,7 +245,7 @@
     "subjectCode": "HSP102",
     "subjectName": "Technical Writing and Presentation Skills (Lab)",
     "startTime": "13:00",
-    "endTime": "14:00",
+    "endTime": "15:00",
     "type": "Lab",
     "batches": ["A2"],
     "room": "Lab-305",
@@ -269,10 +257,22 @@
     "subjectCode": "AIP102",
     "subjectName": "Foundation of Data Engineering Lab",
     "startTime": "15:00",
-    "endTime": "16:00",
+    "endTime": "17:00",
     "type": "Lab",
     "batches": ["A2"],
     "room": "Lab-124",
     "faculty": "Mr. Tanmay Udaiwal (TU)"
+  },
+  {
+    "id": "f3",
+    "day": "Friday",
+    "subjectCode": "CSP112",
+    "subjectName": "Python Programming Lab",
+    "startTime": "09:00",
+    "endTime": "12:00",
+    "type": "Lab",
+    "batches": ["A2"],
+    "room": "Lab-32",
+    "faculty": "Dr. Rajendra Kachhawa (RK)"
   }
 ]
