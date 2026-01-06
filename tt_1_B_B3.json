@@ -1,6 +1,6 @@
 [
   {
-    "id": "m2",
+    "id": "m1",
     "day": "Monday",
     "subjectCode": "AIP102",
     "subjectName": "Foundation of Data Engineering Lab",
@@ -12,7 +12,7 @@
     "faculty": "Mr. Tanmay Udaiwal (TU)"
   },
   {
-    "id": "m1",
+    "id": "m2",
     "day": "Monday",
     "subjectCode": "HSP102",
     "subjectName": "Technical Writing and Presentation Skills (Lab)",
@@ -240,7 +240,7 @@
     "faculty": "Dr. Pragnya Das (PD)"
   },
   {
-    "id": "f4",
+    "id": "f5",
     "day": "Friday",
     "subjectCode": "AIT102",
     "subjectName": "Foundation of Data Engineering",
@@ -252,7 +252,7 @@
     "faculty": "Dr. Ritam Sharma (RIS)"
   },
   {
-    "id": "f5",
+    "id": "f6",
     "day": "Friday",
     "subjectCode": "CST102",
     "subjectName": "Data Structures and Algorithms",
@@ -264,13 +264,13 @@
     "faculty": "Dr. Gyan Singh Yadav (GSY)"
   },
   {
-    "id": "f6",
+    "id": "f7",
     "day": "Friday",
     "subjectCode": "ECT102",
     "subjectName": "Electronics devices and Circuits",
     "startTime": "16:00",
     "endTime": "17:00",
-    "type": "Lecture",
+    "type": "Tutorial",
     "batches": ["All"],
     "room": "LT-5",
     "faculty": "Dr. Pintu Kumar (PK)"
