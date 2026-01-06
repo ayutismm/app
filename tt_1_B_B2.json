@@ -29,7 +29,7 @@
         "subjectCode": "ECP102",
         "subjectName": "Electronics devices and Circuits Lab",
         "startTime": "09:00",
-        "endTime": "10:00",
+        "endTime": "11:00",
         "type": "Lab",
         "batches": ["B2"],
         "room": "Lab-236",
@@ -65,7 +65,7 @@
         "subjectCode": "CSP112",
         "subjectName": "Python Programming Lab",
         "startTime": "14:00",
-        "endTime": "15:00",
+        "endTime": "17:00",
         "type": "Lab",
         "batches": ["B2"],
         "room": "Lab-32",
@@ -120,7 +120,7 @@
         "faculty": "Dr. Pragnya Das (PD)"
     },
     {
-        "id": "w5",
+        "id": "w4",
         "day": "Wednesday",
         "subjectCode": "AIT102",
         "subjectName": "Foundation of Data Engineering",
@@ -132,7 +132,7 @@
         "faculty": "Dr. Ritam Sharma (RIS)"
     },
     {
-        "id": "w6",
+        "id": "w5",
         "day": "Wednesday",
         "subjectCode": "CST102",
         "subjectName": "Data Structures and Algorithms",
@@ -144,7 +144,7 @@
         "faculty": "Dr. Gyan Singh Yadav (GSY)"
     },
     {
-        "id": "w7",
+        "id": "w6",
         "day": "Wednesday",
         "subjectCode": "MMT102",
         "subjectName": "Basics of Management",
@@ -161,7 +161,7 @@
         "subjectCode": "AIP102",
         "subjectName": "Foundation of Data Engineering Lab",
         "startTime": "09:00",
-        "endTime": "10:00",
+        "endTime": "11:00",
         "type": "Lab",
         "batches": ["B2"],
         "room": "Lab-123",
@@ -241,7 +241,7 @@
         "faculty": "Dr. Pragnya Das (PD)"
     },
     {
-        "id": "f5",
+        "id": "f4",
         "day": "Friday",
         "subjectCode": "AIT102",
         "subjectName": "Foundation of Data Engineering",
@@ -253,7 +253,7 @@
         "faculty": "Dr. Ritam Sharma (RIS)"
     },
     {
-        "id": "f6",
+        "id": "f5",
         "day": "Friday",
         "subjectCode": "CST102",
         "subjectName": "Data Structures and Algorithms",
@@ -265,7 +265,7 @@
         "faculty": "Dr. Gyan Singh Yadav (GSY)"
     },
     {
-        "id": "f7",
+        "id": "f6",
         "day": "Friday",
         "subjectCode": "ECT102",
         "subjectName": "Electronics devices and Circuits",
