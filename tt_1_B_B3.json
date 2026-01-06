@@ -54,7 +54,7 @@
     "subjectName": "Discrete Mathematics (T)",
     "startTime": "14:00",
     "endTime": "15:00",
-    "type": "Lecture",
+    "type": "Tutorial",
     "batches": ["B3"],
     "room": "LT-5",
     "faculty": "Dr. Kapil Kumar Choudhary (KC)"
