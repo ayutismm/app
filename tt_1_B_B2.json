@@ -120,7 +120,7 @@
         "faculty": "Dr. Pragnya Das (PD)"
     },
     {
-        "id": "w4",
+        "id": "w5",
         "day": "Wednesday",
         "subjectCode": "AIT102",
         "subjectName": "Foundation of Data Engineering",
@@ -132,7 +132,7 @@
         "faculty": "Dr. Ritam Sharma (RIS)"
     },
     {
-        "id": "w5",
+        "id": "w6",
         "day": "Wednesday",
         "subjectCode": "CST102",
         "subjectName": "Data Structures and Algorithms",
@@ -144,7 +144,7 @@
         "faculty": "Dr. Gyan Singh Yadav (GSY)"
     },
     {
-        "id": "w6",
+        "id": "w7",
         "day": "Wednesday",
         "subjectCode": "MMT102",
         "subjectName": "Basics of Management",
@@ -241,7 +241,7 @@
         "faculty": "Dr. Pragnya Das (PD)"
     },
     {
-        "id": "f4",
+        "id": "f5",
         "day": "Friday",
         "subjectCode": "AIT102",
         "subjectName": "Foundation of Data Engineering",
@@ -253,7 +253,7 @@
         "faculty": "Dr. Ritam Sharma (RIS)"
     },
     {
-        "id": "f5",
+        "id": "f6",
         "day": "Friday",
         "subjectCode": "CST102",
         "subjectName": "Data Structures and Algorithms",
@@ -265,7 +265,7 @@
         "faculty": "Dr. Gyan Singh Yadav (GSY)"
     },
     {
-        "id": "f6",
+        "id": "f7",
         "day": "Friday",
         "subjectCode": "ECT102",
         "subjectName": "Electronics devices and Circuits",
