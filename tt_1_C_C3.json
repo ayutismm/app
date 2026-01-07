@@ -1,6 +1,6 @@
- [
+[
     {
-      "id": "c3_m1",
+      "id": "m1",
       "day": "Monday",
       "subjectCode": "AIP102",
       "subjectName": "Foundation of Data Engineering Lab",
@@ -12,7 +12,7 @@
       "faculty": "Dr. Ritam Sharma (RIS)"
     },
     {
-      "id": "c3_m2",
+      "id": "m2",
       "day": "Monday",
       "subjectCode": "MAT102",
       "subjectName": "Discrete Mathematics",
@@ -24,7 +24,7 @@
       "faculty": "Dr. Pragnya Das (PD)"
     },
     {
-      "id": "c3_m3",
+      "id": "m3",
       "day": "Monday",
       "subjectCode": "HSP102",
       "subjectName": "Technical Writing and Presentation Skills (Lab)",
@@ -36,7 +36,7 @@
       "faculty": "Dr. Adarsh Kumar (ADK)"
     },
     {
-      "id": "c3_t1",
+      "id": "t1",
       "day": "Tuesday",
       "subjectCode": "ECT102",
       "subjectName": "Electronics devices and Circuits",
@@ -48,7 +48,7 @@
       "faculty": "Dr. Shekhar Pratap Singh (SPS)"
     },
     {
-      "id": "c3_t2",
+      "id": "t2",
       "day": "Tuesday",
       "subjectCode": "AIT102",
       "subjectName": "Foundation of Data Engineering",
@@ -60,7 +60,7 @@
       "faculty": "Dr. Ritam Sharma (RIS)"
     },
     {
-      "id": "c3_t3",
+      "id": "t3",
       "day": "Tuesday",
       "subjectCode": "MAT102",
       "subjectName": "Discrete Mathematics",
@@ -72,7 +72,7 @@
       "faculty": "Dr. Pragnya Das (PD)"
     },
     {
-      "id": "c3_t4",
+      "id": "t4",
       "day": "Tuesday",
       "subjectCode": "CST102",
       "subjectName": "Data Structures and Algorithms",
@@ -84,7 +84,7 @@
       "faculty": "Dr. Gyan Singh Yadav (GSY)"
     },
     {
-      "id": "c3_t5",
+      "id": "t5",
       "day": "Tuesday",
       "subjectCode": "CSP112",
       "subjectName": "Python Programming Lab",
@@ -96,7 +96,7 @@
       "faculty": "Dr. Shivang Tripathi (ST) + Mrs. Vijeta Sharma (VS)"
     },
     {
-      "id": "c3_t6",
+      "id": "t6",
       "day": "Tuesday",
       "subjectCode": "MAT102",
       "subjectName": "Discrete Mathematics (Tutorial)",
@@ -108,7 +108,7 @@
       "faculty": "Dr. Pragnya Das (PD)"
     },
     {
-      "id": "c3_w1",
+      "id": "w1",
       "day": "Wednesday",
       "subjectCode": "ECP102",
       "subjectName": "Electronics devices and Circuits Lab",
@@ -120,19 +120,7 @@
       "faculty": "Dr. Shekhar Pratap Singh (SPS) + Ms. Reema Jain (RJ)"
     },
     {
-      "id": "c3_w2",
-      "day": "Wednesday",
-      "subjectCode": "CSP102",
-      "subjectName": "Data Structures and Algorithms Lab",
-      "startTime": "11:00",
-      "endTime": "12:00",
-      "type": "Lab",
-      "batches": ["All"],
-      "room": "LAB-18",
-      "faculty": "Mr. Javed (JK)"
-    },
-    {
-      "id": "c3_w3",
+      "id": "w2",
       "day": "Wednesday",
       "subjectCode": "MMT102",
       "subjectName": "Basics of Management",
@@ -144,7 +132,7 @@
       "faculty": "Dr. Monika Dubey (MD)"
     },
     {
-      "id": "c3_w4",
+      "id": "w3",
       "day": "Wednesday",
       "subjectCode": "ECT102",
       "subjectName": "Electronics devices and Circuits",
@@ -156,7 +144,7 @@
       "faculty": "Dr. Shekhar Pratap Singh (SPS)"
     },
     {
-      "id": "c3_w5",
+      "id": "w4",
       "day": "Wednesday",
       "subjectCode": "MAT102",
       "subjectName": "Discrete Mathematics",
@@ -168,7 +156,7 @@
       "faculty": "Dr. Pragnya Das (PD)"
     },
     {
-      "id": "c3_w6",
+      "id": "w5",
       "day": "Wednesday",
       "subjectCode": "CST102",
       "subjectName": "Data Structures and Algorithms",
@@ -180,67 +168,67 @@
       "faculty": "Dr. Gyan Singh Yadav (GSY)"
     },
     {
-      "id": "c3_th1",
+      "id": "th1",
+      "day": "Thursday",
+      "subjectCode": "CSP102",
+      "subjectName": "Data Structures and Algorithms Lab",
+      "startTime": "09:00",
+      "endTime": "11:00",
+      "type": "Lab",
+      "batches": ["All"],
+      "room": "LAB-18",
+      "faculty": "Mr. Javed (JK)"
+    },
+    {
+      "id": "th2",
       "day": "Thursday",
       "subjectCode": "HST102",
       "subjectName": "Technical Writing and Presentation Skill",
-      "startTime": "09:00",
-      "endTime": "10:00",
+      "startTime": "13:00",
+      "endTime": "14:00",
       "type": "Lecture",
       "batches": ["All"],
       "room": "LT-2",
       "faculty": "Dr. Rajiv Ranjan Mahto (RRM)"
     },
     {
-      "id": "c3_th2",
+      "id": "th3",
       "day": "Thursday",
       "subjectCode": "AIT102",
       "subjectName": "Foundation of Data Engineering",
-      "startTime": "10:00",
-      "endTime": "11:00",
+      "startTime": "14:00",
+      "endTime": "15:00",
       "type": "Lecture",
       "batches": ["All"],
       "room": "LT-2",
       "faculty": "Dr. Ritam Sharma (RIS)"
     },
     {
-      "id": "c3_th3",
+      "id": "th4",
       "day": "Thursday",
       "subjectCode": "MMT102",
       "subjectName": "Basics of Management",
-      "startTime": "11:00",
-      "endTime": "12:00",
+      "startTime": "15:00",
+      "endTime": "16:00",
       "type": "Lecture",
       "batches": ["All"],
       "room": "LT-2",
       "faculty": "Dr. Monika Dubey (MD)"
     },
     {
-      "id": "c3_th4",
+      "id": "th5",
       "day": "Thursday",
       "subjectCode": "CST102",
       "subjectName": "Data Structures and Algorithms",
-      "startTime": "12:00",
-      "endTime": "13:00",
+      "startTime": "16:00",
+      "endTime": "17:00",
       "type": "Lecture",
       "batches": ["All"],
       "room": "LT-5",
       "faculty": "Dr. Gyan Singh Yadav (GSY)"
     },
     {
-      "id": "c3_th5",
-      "day": "Thursday",
-      "subjectCode": "ECT102",
-      "subjectName": "Electronics devices and Circuits",
-      "startTime": "16:00",
-      "endTime": "17:00",
-      "type": "Lecture",
-      "batches": ["All"],
-      "room": "LT-2",
-      "faculty": "Dr. Shekhar Pratap Singh (SPS)"
-    },
-    {
-      "id": "c3_f1",
+      "id": "f1",
       "day": "Friday",
       "subjectCode": "MMT102",
       "subjectName": "Basics of Management",
@@ -252,7 +240,7 @@
       "faculty": "Dr. Monika Dubey (MD)"
     },
     {
-      "id": "c3_f2",
+      "id": "f2",
       "day": "Friday",
       "subjectCode": "AIT102",
       "subjectName": "Foundation of Data Engineering",
@@ -264,7 +252,7 @@
       "faculty": "Dr. Ritam Sharma (RIS)"
     },
     {
-      "id": "c3_f3",
+      "id": "f3",
       "day": "Friday",
       "subjectCode": "ECT102",
       "subjectName": "Electronics devices and Circuits (Tutorial)",
@@ -276,7 +264,7 @@
       "faculty": "Dr. Pintu Kumar (PK)"
     },
     {
-      "id": "c3_f4",
+      "id": "f4",
       "day": "Friday",
       "subjectCode": "ECT102",
       "subjectName": "Electronics devices and Circuits",
@@ -288,4 +276,3 @@
       "faculty": "Dr. Shekhar Pratap Singh (SPS)"
     }
   ]
-]
