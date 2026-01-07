@@ -1,17 +1,17 @@
 [
-    {
+      {
         "id": "m1",
         "day": "Monday",
         "subjectCode": "CSP102",
         "subjectName": "Data Structures and Algorithms Lab",
         "startTime": "09:00",
-        "endTime": "12:00",
+        "endTime": "11:00",
         "type": "Lab",
         "batches": ["B2"],
         "room": "Lab-138",
-        "faculty": "Dr. Gyan Singh Yadav + Mr. Nitin Bhana (NB)"
-    },
-    {
+        "faculty": "Dr. Gyan Singh Yadav (GSY) + Mr. Nitin Bhana (NB)"
+      },
+      {
         "id": "m2",
         "day": "Monday",
         "subjectCode": "HSP102",
@@ -22,8 +22,32 @@
         "batches": ["B2"],
         "room": "Lab-305",
         "faculty": "Dr. Adarsh Kumar (ADK)"
-    },
-    {
+      },
+      {
+        "id": "m3",
+        "day": "Monday",
+        "subjectCode": "AIT102",
+        "subjectName": "Foundation of Data Engineering",
+        "startTime": "15:00",
+        "endTime": "16:00",
+        "type": "Lecture",
+        "batches": ["All"],
+        "room": "LT-5",
+        "faculty": "Dr. Ritam Sharma (RIS)"
+      },
+      {
+        "id": "m4",
+        "day": "Monday",
+        "subjectCode": "MMT102",
+        "subjectName": "Basics of Management",
+        "startTime": "16:00",
+        "endTime": "17:00",
+        "type": "Lecture",
+        "batches": ["All"],
+        "room": "LT-5",
+        "faculty": "Dr. Ankita Birla (AB)"
+      },
+      {
         "id": "t1",
         "day": "Tuesday",
         "subjectCode": "ECP102",
@@ -32,23 +56,11 @@
         "endTime": "11:00",
         "type": "Lab",
         "batches": ["B2"],
-        "room": "Lab-236",
+        "room": "Lab",
         "faculty": "Dr. Amit Kumar Garg (AKG) + Ms. Saumya Paliwal (SP)"
-    },
-    {
+      },
+      {
         "id": "t2",
-        "day": "Tuesday",
-        "subjectCode": "MAT102",
-        "subjectName": "Discrete Mathematics (T)",
-        "startTime": "11:00",
-        "endTime": "12:00",
-        "type": "Tutorial",
-        "batches": ["B2"],
-        "room": "LT-5",
-        "faculty": "Dr. Kapil Kumar Choudhary (KC)"
-    },
-    {
-        "id": "t3",
         "day": "Tuesday",
         "subjectCode": "ECT102",
         "subjectName": "Electronics devices and Circuits",
@@ -57,21 +69,33 @@
         "type": "Lecture",
         "batches": ["All"],
         "room": "LT-5",
-        "faculty": "Dr. Pintu Kumar (PK)"
-    },
-    {
+        "faculty": "Dr. Parikshit Kishor Singh (PKS)"
+      },
+      {
+        "id": "t3",
+        "day": "Tuesday",
+        "subjectCode": "MAT102",
+        "subjectName": "Discrete Mathematics (T)",
+        "startTime": "14:00",
+        "endTime": "15:00",
+        "type": "Tutorial",
+        "batches": ["B2"],
+        "room": "RM-244",
+        "faculty": "Dr. Kapil Kumar Choudhary (KC)"
+      },
+      {
         "id": "t4",
         "day": "Tuesday",
         "subjectCode": "CSP112",
         "subjectName": "Python Programming Lab",
         "startTime": "14:00",
-        "endTime": "17:00",
+        "endTime": "16:00",
         "type": "Lab",
         "batches": ["B2"],
         "room": "Lab-32",
         "faculty": "Dr. Suneel Kumar (SK)"
-    },
-    {
+      },
+      {
         "id": "w1",
         "day": "Wednesday",
         "subjectCode": "HST102",
@@ -82,8 +106,8 @@
         "batches": ["All"],
         "room": "LT-5",
         "faculty": "Dr. Rajiv Ranjan Mahto (RRM)"
-    },
-    {
+      },
+      {
         "id": "w2",
         "day": "Wednesday",
         "subjectCode": "MMT102",
@@ -94,8 +118,8 @@
         "batches": ["All"],
         "room": "LT-5",
         "faculty": "Dr. Ankita Birla (AB)"
-    },
-    {
+      },
+      {
         "id": "w3",
         "day": "Wednesday",
         "subjectCode": "ECT102",
@@ -105,22 +129,22 @@
         "type": "Lecture",
         "batches": ["All"],
         "room": "LT-5",
-        "faculty": "Dr. Pintu Kumar (PK)"
-    },
-    {
+        "faculty": "Dr. Parikshit Kishor Singh (PKS)"
+      },
+      {
         "id": "w4",
         "day": "Wednesday",
         "subjectCode": "MAT102",
-        "subjectName": "Discrete Mathematics ",
+        "subjectName": "Discrete Mathematics",
         "startTime": "13:00",
         "endTime": "14:00",
         "type": "Lecture",
         "batches": ["All"],
         "room": "LT-5",
         "faculty": "Dr. Pragnya Das (PD)"
-    },
-    {
-        "id": "w4",
+      },
+      {
+        "id": "w5",
         "day": "Wednesday",
         "subjectCode": "AIT102",
         "subjectName": "Foundation of Data Engineering",
@@ -130,9 +154,9 @@
         "batches": ["All"],
         "room": "LT-5",
         "faculty": "Dr. Ritam Sharma (RIS)"
-    },
-    {
-        "id": "w5",
+      },
+      {
+        "id": "w6",
         "day": "Wednesday",
         "subjectCode": "CST102",
         "subjectName": "Data Structures and Algorithms",
@@ -142,20 +166,8 @@
         "batches": ["All"],
         "room": "LT-5",
         "faculty": "Dr. Gyan Singh Yadav (GSY)"
-    },
-    {
-        "id": "w6",
-        "day": "Wednesday",
-        "subjectCode": "MMT102",
-        "subjectName": "Basics of Management",
-        "startTime": "16:00",
-        "endTime": "17:00",
-        "type": "Lecture",
-        "batches": ["All"],
-        "room": "LT-5",
-        "faculty": "Dr. Ankita Birla (AB)"
-    },
-    {
+      },
+      {
         "id": "th1",
         "day": "Thursday",
         "subjectCode": "AIP102",
@@ -166,8 +178,8 @@
         "batches": ["B2"],
         "room": "Lab-123",
         "faculty": "Mr. Tanmay Udaiwal (TU)"
-    },
-    {
+      },
+      {
         "id": "th2",
         "day": "Thursday",
         "subjectCode": "CST102",
@@ -178,8 +190,8 @@
         "batches": ["All"],
         "room": "LT-5",
         "faculty": "Dr. Gyan Singh Yadav (GSY)"
-    },
-    {
+      },
+      {
         "id": "th3",
         "day": "Thursday",
         "subjectCode": "MAT102",
@@ -190,20 +202,20 @@
         "batches": ["All"],
         "room": "LT-5",
         "faculty": "Dr. Pragnya Das (PD)"
-    },
-    {
+      },
+      {
         "id": "f1",
         "day": "Friday",
-        "subjectCode": "AIT102",
-        "subjectName": "Foundation of Data Engineering",
+        "subjectCode": "ECT102",
+        "subjectName": "Electronics devices and Circuits",
         "startTime": "09:00",
         "endTime": "10:00",
-        "type": "Lecture",
+        "type": "Tutorial",
         "batches": ["All"],
-        "room": "LT-5",
-        "faculty": "Dr. Ritam Sharma (RIS)"
-    },
-    {
+        "room": "RM-306",
+        "faculty": "Dr. Pintu Kumar (PK)"
+      },
+      {
         "id": "f2",
         "day": "Friday",
         "subjectCode": "MMT102",
@@ -214,8 +226,8 @@
         "batches": ["All"],
         "room": "LT-5",
         "faculty": "Dr. Ankita Birla (AB)"
-    },
-    {
+      },
+      {
         "id": "f3",
         "day": "Friday",
         "subjectCode": "ECT102",
@@ -225,55 +237,42 @@
         "type": "Lecture",
         "batches": ["All"],
         "room": "LT-5",
-        "faculty": "Dr. Pintu Kumar (PK)"
-    },
-
-    {
+        "faculty": "Dr. Parikshit Kishor Singh (PKS)"
+      },
+      {
         "id": "f4",
         "day": "Friday",
-        "subjectCode": "MAT102",
-        "subjectName": "Discrete Mathematics",
+        "subjectCode": "CST102",
+        "subjectName": "Data Structures and Algorithms",
         "startTime": "13:00",
         "endTime": "14:00",
         "type": "Lecture",
         "batches": ["All"],
         "room": "LT-5",
-        "faculty": "Dr. Pragnya Das (PD)"
-    },
-    {
-        "id": "f4",
+        "faculty": "Dr. Gyan Singh Yadav (GSY)"
+      },
+      {
+        "id": "f5",
         "day": "Friday",
-        "subjectCode": "AIT102",
-        "subjectName": "Foundation of Data Engineering",
+        "subjectCode": "MAT102",
+        "subjectName": "Discrete Mathematics",
         "startTime": "14:00",
         "endTime": "15:00",
         "type": "Lecture",
         "batches": ["All"],
         "room": "LT-5",
-        "faculty": "Dr. Ritam Sharma (RIS)"
-    },
-    {
-        "id": "f5",
+        "faculty": "Dr. Pragnya Das (PD)"
+      },
+      {
+        "id": "f6",
         "day": "Friday",
-        "subjectCode": "CST102",
-        "subjectName": "Data Structures and Algorithms",
+        "subjectCode": "AIT102",
+        "subjectName": "Foundation of Data Engineering",
         "startTime": "15:00",
         "endTime": "16:00",
         "type": "Lecture",
         "batches": ["All"],
         "room": "LT-5",
-        "faculty": "Dr. Gyan Singh Yadav (GSY)"
-    },
-    {
-        "id": "f6",
-        "day": "Friday",
-        "subjectCode": "ECT102",
-        "subjectName": "Electronics devices and Circuits",
-        "startTime": "16:00",
-        "endTime": "17:00",
-        "type": "Tutorial",
-        "batches": ["All"],
-        "room": "LT-5",
-        "faculty": "Dr. Pintu Kumar (PK)"
-    }
-]
+        "faculty": "Dr. Ritam Sharma (RIS)"
+      }
+    ]
