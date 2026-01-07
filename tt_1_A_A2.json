@@ -240,30 +240,6 @@
       "faculty": "Dr. Vinita Tiwari (VT) + Ms. Reema Jain (RJ)"
     },
     {
-      "id": "thu_6",
-      "day": "Thursday",
-      "subjectCode": "HSP102",
-      "subjectName": "Technical Writing and Presentation Skills (Lab)",
-      "startTime": "15:00",
-      "endTime": "17:00",
-      "type": "Lab",
-      "batches": ["A2"],
-      "room": "Lab-305",
-      "faculty": "Dr. Adarsh Kumar (ADK)"
-    },
-    {
-      "id": "thu_8",
-      "day": "Thursday",
-      "subjectCode": "AIP102",
-      "subjectName": "Foundation of Data Engineering Lab",
-      "startTime": "15:00",
-      "endTime": "17:00",
-      "type": "Lab",
-      "batches": ["A2"],
-      "room": "Lab-124",
-      "faculty": "Mr. Tanmay Udaiwal (TU)"
-    },
-    {
       "id": "thu_9",
       "day": "Thursday",
       "subjectCode": "MAT102",
