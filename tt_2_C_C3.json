@@ -1,338 +1,302 @@
 [
-        {
-            "id": "m1",
-            "day": "Monday",
-            "subjectCode": "ECT208",
-            "subjectName": "Electromagnetic Theory",
-            "startTime": "10:00",
-            "endTime": "11:00",
-            "type": "Lecture",
-            "batches": [
-                "All"
-            ],
-            "room": "LT3",
-            "faculty": "Dr. Chetna Sharma (CS)"
-        },
-        {
-            "id": "m3",
-            "day": "Monday",
-            "subjectCode": "ECT206",
-            "subjectName": "Computer Architecture and Organization",
-            "startTime": "14:00",
-            "endTime": "15:00",
-            "type": "Lecture",
-            "batches": [
-                "All"
-            ],
-            "room": "LT3",
-            "faculty": "Dr. Abhay Upadhyay (AU)"
-        },
-        {
-            "id": "m4",
-            "day": "Monday",
-            "subjectCode": "ECT202",
-            "subjectName": "Analog Communication",
-            "startTime": "15:00",
-            "endTime": "16:00",
-            "type": "Lecture",
-            "batches": [
-                "All"
-            ],
-            "room": "LT3",
-            "faculty": "Dr. Vinita Tiwari (VT)"
-        },
-        {
-            "id": "m5",
-            "day": "Monday",
-            "subjectCode": "ECT204",
-            "subjectName": "Measurement and Instrumentation Technology",
-            "startTime": "16:00",
-            "endTime": "17:00",
-            "type": "Lecture",
-            "batches": [
-                "All"
-            ],
-            "room": "LT3",
-            "faculty": "Dr. Parikshit Kishor Singh (PKS)"
-        },
-        {
-            "id": "t1",
-            "day": "Tuesday",
-            "subjectCode": "MAT202",
-            "subjectName": "Applied Probability and Random Processes",
-            "startTime": "09:00",
-            "endTime": "10:00",
-            "type": "Lecture",
-            "batches": [
-                "All"
-            ],
-            "room": "LT3",
-            "faculty": "Dr. Prashant Goyal (PG)"
-        },
-        {
-            "id": "t2",
-            "day": "Tuesday",
-            "subjectCode": "ECT208",
-            "subjectName": "Electromagnetic Theory",
-            "startTime": "10:00",
-            "endTime": "11:00",
-            "type": "Lecture",
-            "batches": [
-                "All"
-            ],
-            "room": "LT3",
-            "faculty": "Dr. Chetna Sharma (CS)"
-        },
-        {
-            "id": "t5",
-            "day": "Tuesday",
-            "subjectCode": "ECT206",
-            "subjectName": "Computer Architecture and Organization",
-            "startTime": "14:00",
-            "endTime": "15:00",
-            "type": "Lecture",
-            "batches": [
-                "All"
-            ],
-            "room": "LT3",
-            "faculty": "Dr. Abhay Upadhyay (AU)"
-        },
-        {
-            "id": "t6",
-            "day": "Tuesday",
-            "subjectCode": "ECT202",
-            "subjectName": "Analog Communication",
-            "startTime": "15:00",
-            "endTime": "16:00",
-            "type": "Lecture",
-            "batches": [
-                "All"
-            ],
-            "room": "LT3",
-            "faculty": "Dr. Vinita Tiwari (VT)"
-        },
-        {
-            "id": "t7",
-            "day": "Tuesday",
-            "subjectCode": "ECT210",
-            "subjectName": "Electronic Circuit Analysis",
-            "startTime": "16:00",
-            "endTime": "17:00",
-            "type": "Lecture",
-            "batches": [
-                "All"
-            ],
-            "room": "LT3",
-            "faculty": "Dr. Ashok Kumar Kherodia (AKK)"
-        },
-        {
-            "id": "w1",
-            "day": "Wednesday",
-            "subjectCode": "MAT202",
-            "subjectName": "Applied Probability and Random Processes",
-            "startTime": "09:00",
-            "endTime": "10:00",
-            "type": "Lecture",
-            "batches": [
-                "All"
-            ],
-            "room": "LT3",
-            "faculty": "Dr. Prashant Goyal (PG)"
-        },
-        {
-            "id": "w2",
-            "day": "Wednesday",
-            "subjectCode": "ECD202",
-            "subjectName": "Technical Seminar",
-            "startTime": "10:00",
-            "endTime": "11:00",
-            "type": "Seminar",
-            "batches": [
-                "All"
-            ],
-            "room": "LT3",
-            "faculty": "Dr. Ashok Kumar Kherodia (AKK), Dr. Pintu Kumar (PK)"
-        },
-        {
-            "id": "w4",
-            "day": "Wednesday",
-            "subjectCode": "MMP202",
-            "subjectName": "Entrepreneurship and Business Incubation",
-            "startTime": "11:00",
-            "endTime": "13:00",
-            "type": "Lab",
-            "batches": [
-                "C3"
-            ],
-            "room": "RM-244",
-            "faculty": "Dr. Monika Dubey (MD)"
-        },
-        {
-            "id": "w6",
-            "day": "Wednesday",
-            "subjectCode": "ECT204",
-            "subjectName": "Measurement and Instrumentation Technology",
-            "startTime": "14:00",
-            "endTime": "15:00",
-            "type": "Lecture",
-            "batches": [
-                "All"
-            ],
-            "room": "LT3",
-            "faculty": "Dr. Parikshit Kishor Singh (PKS)"
-        },
-        {
-            "id": "w8",
-            "day": "Wednesday",
-            "subjectCode": "ECP206",
-            "subjectName": "Computer Architecture and Organization Lab",
-            "startTime": "15:00",
-            "endTime": "17:00",
-            "type": "Lab",
-            "batches": [
-                "C3"
-            ],
-            "room": "RM-222",
-            "faculty": "Dr. Abhay Upadhyay (AU)+ Mr. Bhavesh Ahuja+Mr. Khushagra+Dr. Ajay Kumar"
-        },
-        {
-            "id": "th1",
-            "day": "Thursday",
-            "subjectCode": "MAT202",
-            "subjectName": "Applied Probability and Random Processes",
-            "startTime": "09:00",
-            "endTime": "10:00",
-            "type": "Lecture",
-            "batches": [
-                "All"
-            ],
-            "room": "LT3",
-            "faculty": "Dr. Prashant Goyal (PG)"
-        },
-        {
-            "id": "th2",
-            "day": "Thursday",
-            "subjectCode": "ECT204",
-            "subjectName": "Measurement and Instrumentation Technology",
-            "startTime": "10:00",
-            "endTime": "11:00",
-            "type": "Lecture",
-            "batches": [
-                "All"
-            ],
-            "room": "LT3",
-            "faculty": "Dr. Parikshit Kishor Singh (PKS)"
-        },
-        {
-            "id": "th4",
-            "day": "Thursday",
-            "subjectCode": "ECP204",
-            "subjectName": "Measurement and Instrumentation Technolgy Lab",
-            "startTime": "11:00",
-            "endTime": "13:00",
-            "type": "Lab",
-            "batches": [
-                "C3"
-            ],
-            "room": "RM-236",
-            "faculty": "Dr. Parikshit Kishor Singh (PKS) + team"
-        },
-        {
-            "id": "th6",
-            "day": "Thursday",
-            "subjectCode": "ECT210",
-            "subjectName": "Electronic Circuit Analysis",
-            "startTime": "14:00",
-            "endTime": "15:00",
-            "type": "Lecture",
-            "batches": [
-                "All"
-            ],
-            "room": "LT3",
-            "faculty": "Dr. Ashok Kumar Kherodia (AKK)"
-        },
-        {
-            "id": "th7",
-            "day": "Thursday",
-            "subjectCode": "ECT202",
-            "subjectName": "Analog Communication",
-            "startTime": "15:00",
-            "endTime": "16:00",
-            "type": "Lecture",
-            "batches": [
-                "All"
-            ],
-            "room": "LT3",
-            "faculty": "Dr. Vinita Tiwari (VT)"
-        },
-        {
-            "id": "f1",
-            "day": "Friday",
-            "subjectCode": "ECT206",
-            "subjectName": "Computer Architecture and Organization",
-            "startTime": "09:00",
-            "endTime": "10:00",
-            "type": "Lecture",
-            "batches": [
-                "All"
-            ],
-            "room": "LT3",
-            "faculty": "Dr. Abhay Upadhyay (AU)"
-        },
-        {
-            "id": "f2",
-            "day": "Friday",
-            "subjectCode": "ECT208",
-            "subjectName": "Electromagnetic Theory",
-            "startTime": "10:00",
-            "endTime": "11:00",
-            "type": "Lecture",
-            "batches": [
-                "All"
-            ],
-            "room": "LT3",
-            "faculty": "Dr. Chetna Sharma (CS)"
-        },
-        {
-            "id": "f4",
-            "day": "Friday",
-            "subjectCode": "MMP202",
-            "subjectName": "Entrepreneurship and Business Incubation",
-            "startTime": "12:00",
-            "endTime": "13:00",
-            "type": "Tutorial",
-            "batches": [
-                "C3"
-            ],
-            "room": "RM-244",
-            "faculty": "Dr. Monika Dubey (MD)"
-        },
-        {
-            "id": "f5",
-            "day": "Friday",
-            "subjectCode": "ECT210",
-            "subjectName": "Electronic Circuit Analysis",
-            "startTime": "14:00",
-            "endTime": "15:00",
-            "type": "Lecture",
-            "batches": [
-                "All"
-            ],
-            "room": "LT3",
-            "faculty": "Dr. Ashok Kumar Kherodia (AKK)"
-        },
-        {
-            "id": "f6",
-            "day": "Friday",
-            "subjectCode": "ECP202",
-            "subjectName": "Analog Communication Lab",
-            "startTime": "15:00",
-            "endTime": "17:00",
-            "type": "Lab",
-            "batches": [
-                "C3"
-            ],
-            "room": "RM-236",
-            "faculty": "Dr. Anand Agrawal (AA) + team"
-        }
-    ]
+  {
+    "id": "m1",
+    "day": "Monday",
+    "subjectCode": "ECT208",
+    "subjectName": "Electromagnetic Theory",
+    "startTime": "09:00",
+    "endTime": "11:00",
+    "type": "Lecture",
+    "batches": ["All"],
+    "room": "LT3",
+    "faculty": "Dr. Chetna Sharma (CS)"
+  },
+  {
+    "id": "m3",
+    "day": "Monday",
+    "subjectCode": "MAT202",
+    "subjectName": "Applied Probability and Random Processes",
+    "startTime": "14:00",
+    "endTime": "15:00",
+    "type": "Lecture",
+    "batches": ["All"],
+    "room": "LT3",
+    "faculty": "Dr. Prashant Goyal (PG)"
+  },
+  {
+    "id": "m4",
+    "day": "Monday",
+    "subjectCode": "ECT204",
+    "subjectName": "Measurement and Instrumentation Technology",
+    "startTime": "15:00",
+    "endTime": "16:00",
+    "type": "Lecture",
+    "batches": ["All"],
+    "room": "LT3",
+    "faculty": "Dr. Parikshit Kishor Singh (PKS)"
+  },
+  {
+    "id": "m5",
+    "day": "Monday",
+    "subjectCode": "ECT202",
+    "subjectName": "Analog Communication",
+    "startTime": "16:00",
+    "endTime": "17:00",
+    "type": "Lecture",
+    "batches": ["All"],
+    "room": "LT3",
+    "faculty": "Dr. Vinita Tiwari (VT)"
+  },
+  {
+    "id": "t1",
+    "day": "Tuesday",
+    "subjectCode": "MAT202",
+    "subjectName": "Applied Probability and Random Processes",
+    "startTime": "09:00",
+    "endTime": "10:00",
+    "type": "Lecture",
+    "batches": ["All"],
+    "room": "LT3",
+    "faculty": "Dr. Prashant Goyal (PG)"
+  },
+  {
+    "id": "t2",
+    "day": "Tuesday",
+    "subjectCode": "ECT208",
+    "subjectName": "Electromagnetic Theory",
+    "startTime": "10:00",
+    "endTime": "11:00",
+    "type": "Lecture",
+    "batches": ["All"],
+    "room": "LT3",
+    "faculty": "Dr. Chetna Sharma (CS)"
+  },
+  {
+    "id": "t3",
+    "day": "Tuesday",
+    "subjectCode": "ECP202",
+    "subjectName": "Analog Communication Lab",
+    "startTime": "11:00",
+    "endTime": "13:00",
+    "type": "Lab",
+    "batches": ["C3"],
+    "room": "LAB-236",
+    "faculty": "Dr. Anand Agrawal (AA), Ms. Karina Batwani (KB)"
+  },
+  {
+    "id": "t5",
+    "day": "Tuesday",
+    "subjectCode": "ECT206",
+    "subjectName": "Computer Architecture and Organization",
+    "startTime": "14:00",
+    "endTime": "15:00",
+    "type": "Lecture",
+    "batches": ["All"],
+    "room": "LT3",
+    "faculty": "Dr. Abhay Upadhyay (AU)"
+  },
+  {
+    "id": "t6",
+    "day": "Tuesday",
+    "subjectCode": "ECT202",
+    "subjectName": "Analog Communication",
+    "startTime": "15:00",
+    "endTime": "16:00",
+    "type": "Lecture",
+    "batches": ["All"],
+    "room": "LT3",
+    "faculty": "Dr. Vinita Tiwari (VT)"
+  },
+  {
+    "id": "t7",
+    "day": "Tuesday",
+    "subjectCode": "ECT210",
+    "subjectName": "Electronic Circuit Analysis",
+    "startTime": "16:00",
+    "endTime": "17:00",
+    "type": "Lecture",
+    "batches": ["All"],
+    "room": "LT3",
+    "faculty": "Dr. Ashok Kumar Kherodia (AKK)"
+  },
+  {
+    "id": "w1",
+    "day": "Wednesday",
+    "subjectCode": "MAT202",
+    "subjectName": "Applied Probability and Random Processes",
+    "startTime": "09:00",
+    "endTime": "10:00",
+    "type": "Lecture",
+    "batches": ["All"],
+    "room": "LT3",
+    "faculty": "Dr. Prashant Goyal (PG)"
+  },
+  {
+    "id": "w2",
+    "day": "Wednesday",
+    "subjectCode": "ECD202",
+    "subjectName": "Technical Seminar",
+    "startTime": "10:00",
+    "endTime": "11:00",
+    "type": "Seminar",
+    "batches": ["All"],
+    "room": "LT3",
+    "faculty": "Dr. Ashok Kumar Kherodia (AKK), Dr. Pintu Kumar (PK)"
+  },
+  {
+    "id": "w6",
+    "day": "Wednesday",
+    "subjectCode": "ECT204",
+    "subjectName": "Measurement and Instrumentation Technology",
+    "startTime": "14:00",
+    "endTime": "15:00",
+    "type": "Lecture",
+    "batches": ["All"],
+    "room": "LT3",
+    "faculty": "Dr. Parikshit Kishor Singh (PKS)"
+  },
+  {
+    "id": "w8",
+    "day": "Wednesday",
+    "subjectCode": "ECP206",
+    "subjectName": "Computer Architecture and Organization Lab",
+    "startTime": "15:00",
+    "endTime": "17:00",
+    "type": "Lab",
+    "batches": ["C3"],
+    "room": "LAB-221",
+    "faculty": "Dr. Abhay Upadhyay (AU), Dr. Ajay Kumar (AK)"
+  },
+  {
+    "id": "th1",
+    "day": "Thursday",
+    "subjectCode": "MAT202",
+    "subjectName": "Applied Probability and Random Processes",
+    "startTime": "09:00",
+    "endTime": "10:00",
+    "type": "Lecture",
+    "batches": ["All"],
+    "room": "LT3",
+    "faculty": "Dr. Prashant Goyal (PG)"
+  },
+  {
+    "id": "th2",
+    "day": "Thursday",
+    "subjectCode": "ECT204",
+    "subjectName": "Measurement and Instrumentation Technology",
+    "startTime": "10:00",
+    "endTime": "11:00",
+    "type": "Lecture",
+    "batches": ["All"],
+    "room": "LT3",
+    "faculty": "Dr. Parikshit Kishor Singh (PKS)"
+  },
+  {
+    "id": "th3",
+    "day": "Thursday",
+    "subjectCode": "ECP204",
+    "subjectName": "Measurement and Instrumentation Technology Lab",
+    "startTime": "11:00",
+    "endTime": "13:00",
+    "type": "Lab",
+    "batches": ["C3"],
+    "room": "LAB-236",
+    "faculty": "Dr. Parikshit Kishor Singh (PKS), Mrs. Reema Jain (RJ), Dr. Saumya Paliwal (SP)"
+  },
+  {
+    "id": "th6",
+    "day": "Thursday",
+    "subjectCode": "ECT210",
+    "subjectName": "Electronic Circuit Analysis",
+    "startTime": "14:00",
+    "endTime": "15:00",
+    "type": "Lecture",
+    "batches": ["All"],
+    "room": "LT3",
+    "faculty": "Dr. Ashok Kumar Kherodia (AKK)"
+  },
+  {
+    "id": "th7",
+    "day": "Thursday",
+    "subjectCode": "ECT202",
+    "subjectName": "Analog Communication",
+    "startTime": "15:00",
+    "endTime": "16:00",
+    "type": "Lecture",
+    "batches": ["All"],
+    "room": "LT3",
+    "faculty": "Dr. Vinita Tiwari (VT)"
+  },
+  {
+    "id": "th8",
+    "day": "Thursday",
+    "subjectCode": "ECT206",
+    "subjectName": "Computer Architecture and Organization",
+    "startTime": "16:00",
+    "endTime": "17:00",
+    "type": "Lecture",
+    "batches": ["All"],
+    "room": "LT3",
+    "faculty": "Dr. Abhay Upadhyay (AU)"
+  },
+  {
+    "id": "f1",
+    "day": "Friday",
+    "subjectCode": "ECT206",
+    "subjectName": "Computer Architecture and Organization",
+    "startTime": "09:00",
+    "endTime": "10:00",
+    "type": "Lecture",
+    "batches": ["All"],
+    "room": "LT3",
+    "faculty": "Dr. Abhay Upadhyay (AU)"
+  },
+  {
+    "id": "f2",
+    "day": "Friday",
+    "subjectCode": "ECT208",
+    "subjectName": "Electromagnetic Theory",
+    "startTime": "10:00",
+    "endTime": "11:00",
+    "type": "Lecture",
+    "batches": ["All"],
+    "room": "LT3",
+    "faculty": "Dr. Chetna Sharma (CS)"
+  },
+  {
+    "id": "f3",
+    "day": "Friday",
+    "subjectCode": "MMP202",
+    "subjectName": "Entrepreneurship and Business Incubation",
+    "startTime": "12:00",
+    "endTime": "13:00",
+    "type": "Tutorial",
+    "batches": ["C3"],
+    "room": "RM-244",
+    "faculty": "Dr. Monika Dubey (MD)"
+  },
+  {
+    "id": "f5",
+    "day": "Friday",
+    "subjectCode": "ECT210",
+    "subjectName": "Electronic Circuit Analysis",
+    "startTime": "14:00",
+    "endTime": "15:00",
+    "type": "Lecture",
+    "batches": ["All"],
+    "room": "LT3",
+    "faculty": "Dr. Ashok Kumar Kherodia (AKK)"
+  },
+  {
+    "id": "f6",
+    "day": "Friday",
+    "subjectCode": "MMP202",
+    "subjectName": "Entrepreneurship and Business Incubation",
+    "startTime": "15:00",
+    "endTime": "17:00",
+    "type": "Lecture",
+    "batches": ["C3"],
+    "room": "RM-141",
+    "faculty": "Dr. Monika Dubey (MD)"
+  }
+]
